@@ -1,0 +1,11 @@
+com\lucasgv\unibh_poc\parse\JSON.class
+com\lucasgv\unibh_poc\http\Requisicao$1.class
+com\lucasgv\unibh_poc\util\Encode.class
+com\lucasgv\unibh_poc\anima\laiv\Atividade.class
+com\lucasgv\unibh_poc\anima\api\TipoInstituicao.class
+com\lucasgv\unibh_poc\anima\laiv\LAIV.class
+com\lucasgv\unibh_poc\http\TipoRequisicao.class
+com\lucasgv\unibh_poc\util\Propriedade.class
+com\lucasgv\unibh_poc\http\Requisicao.class
+com\lucasgv\unibh_poc\anima\api\Auth.class
+com\lucasgv\unibh_poc\util\Hash.class
