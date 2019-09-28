@@ -15,7 +15,7 @@ import lombok.Setter;
 public class Ulife {
 
     @Getter @Setter private String authCookie;
-    Auth ulifeAuth = new Auth("11823934", "$Google123");
+    Auth ulifeAuth = new Auth("11823934", "se");
 
     public Ulife() {
         this.authCookie = ulifeAuth.getCookie();
